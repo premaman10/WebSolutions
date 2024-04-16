@@ -29,6 +29,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 For inquiries or support, please contact us at contact amanprem374@gmail.com
 
-##Demo
+## Demo
 https://premaman10.github.io/WebSolutions/
 
